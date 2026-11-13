@@ -13,6 +13,10 @@ The main objective is to transform raw IPL data into meaningful insights through
 - VLOOKUP
 - Slicers
 - Charts and Data Visualization
+  
+## 📸 Dashboard Preview
+
+![IPL Dashboard](IPL-DASHBOARD.PNG)
 
 ## 📊 Key Analysis
 
